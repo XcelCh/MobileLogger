@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:http-auth-api-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/http-auth-api-jvm/0.20.0/68d166a3120173b2975a17e72a80037078cb8ef8/http-auth-api-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/http-auth-api-jvm/0.20.0/475e5770aed15301f2056d43badc66235d6a029e/http-auth-api-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/http-auth-api-jvm/0.20.0/ee1336874b9a65ba6cfc3f86dadbd7bc2f5ddf9/http-auth-api-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

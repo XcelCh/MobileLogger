@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:aws-signing-common-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/aws-signing-common-jvm/0.20.0/4061214bf499d4af0d1376ede816828aa1bf2c7d/aws-signing-common-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/aws-signing-common-jvm/0.20.0/d920a26685ec5b3335b94af81712b76596aa9452/aws-signing-common-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/aws-signing-common-jvm/0.20.0/76df7c4d909f3cc7d4d5abcb99d84fac775ae839/aws-signing-common-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

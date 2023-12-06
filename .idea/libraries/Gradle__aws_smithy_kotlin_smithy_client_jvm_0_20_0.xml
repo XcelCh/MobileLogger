@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:smithy-client-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/smithy-client-jvm/0.20.0/746f7d7b0602944ba227e7368fe2a6f9891cb41c/smithy-client-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/smithy-client-jvm/0.20.0/5a9962776c07a39e41f6313c6f1b565a21a3846/smithy-client-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/smithy-client-jvm/0.20.0/b963786b21809b365caed337ab50de0ad072d52b/smithy-client-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

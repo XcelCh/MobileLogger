@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.sdk.kotlin:iam-jvm:0.25.0-beta">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.sdk.kotlin/iam-jvm/0.25.0-beta/bef55eba05910dd6537ddb975e4bb37e6ae213e7/iam-jvm-0.25.0-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.sdk.kotlin/iam-jvm/0.25.0-beta/72cbfc76bf2ce5fcf381d31f26f7ed48ab9dd96f/iam-jvm-0.25.0-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.sdk.kotlin/iam-jvm/0.25.0-beta/c3f784cf1a8f791013222b78f73cb3f31e8c0d02/iam-jvm-0.25.0-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

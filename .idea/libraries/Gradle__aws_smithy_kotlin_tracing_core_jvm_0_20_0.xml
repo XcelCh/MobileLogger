@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:tracing-core-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/tracing-core-jvm/0.20.0/790425022951789ac611351d2b680d7c400262d6/tracing-core-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/tracing-core-jvm/0.20.0/1ee33e0c578d773187bdfe1e0ece8a92301913e3/tracing-core-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/tracing-core-jvm/0.20.0/3623789b61fa6dcf84833100675741a3f84f18b5/tracing-core-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

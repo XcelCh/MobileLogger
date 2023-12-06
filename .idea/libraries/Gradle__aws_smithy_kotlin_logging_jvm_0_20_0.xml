@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:logging-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/logging-jvm/0.20.0/b9413fa41e935bf00ea86d18df360cbebb6d279b/logging-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/logging-jvm/0.20.0/5278bc9c3da0e47dd16b7f84e610fe02cb427c06/logging-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/logging-jvm/0.20.0/140335a6b1a4a6a8dbeba75b56612dfc8566603d/logging-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

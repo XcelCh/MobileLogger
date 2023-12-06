@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:identity-api-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/identity-api-jvm/0.20.0/56956a1921916ee3a0bb5b99cd9b9cb0e00d2c32/identity-api-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/identity-api-jvm/0.20.0/b9f31b57964da628a71a0e0e73608f1bac0a6614/identity-api-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/identity-api-jvm/0.20.0/30becaf2c37551778b7afb27b700b3fd77517ca0/identity-api-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

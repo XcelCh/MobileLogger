@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: aws.smithy.kotlin:runtime-core-jvm:0.20.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/runtime-core-jvm/0.20.0/3f339ecd7455eb30cdf521850757e62a6f82b4a5/runtime-core-jvm-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/runtime-core-jvm/0.20.0/b319d467750cf5b3861dbb54d3a5510672378e3a/runtime-core-jvm-0.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aws.smithy.kotlin/runtime-core-jvm/0.20.0/e367d6e09f66f5eaa6ec547c7a96d15e63f0bc71/runtime-core-jvm-0.20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
