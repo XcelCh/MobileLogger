@@ -9,6 +9,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
+import androidx.core.app.NotificationManagerCompat
 import com.example.logging.worker.WorkerManager
 import java.io.File
 import java.util.UUID
@@ -26,8 +27,10 @@ class MainActivity: Activity() {
                 Manifest.permission.ACCESS_BACKGROUND_LOCATION
             ) == PackageManager.PERMISSION_GRANTED
         ) {
+            NotificationManagerCompat.from(this).cancelAll()
+
             val notify = Notification("Mobile Logger")
-            notify.makeStatusNotification(applicationContext)
+            notify.makeStopStatusNotification(applicationContext)
 
             val manager = WorkerManager()
             manager.scheduleLocationWork(this)
@@ -132,8 +135,8 @@ class MainActivity: Activity() {
             102 -> {
                 // If request is cancelled, the result arrays are empty.
                 if (grantResults.isNotEmpty() && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                    val notify = Notification("Testing Notification!!!")
-                    notify.makeStatusNotification(applicationContext)
+                    val notify = Notification("Mobile Logger")
+                    notify.makeStopStatusNotification(applicationContext)
 
                     val manager = WorkerManager()
                     manager.scheduleLocationWork(this)

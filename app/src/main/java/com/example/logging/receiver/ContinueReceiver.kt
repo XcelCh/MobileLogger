@@ -5,6 +5,8 @@ import android.content.ContentValues
 import android.content.Context
 import android.content.Intent
 import android.util.Log
+import androidx.core.app.NotificationManagerCompat
+import com.example.logging.Notification
 import com.example.logging.worker.WorkerManager
 
 class ContinueReceiver: BroadcastReceiver() {
@@ -20,6 +22,10 @@ class ContinueReceiver: BroadcastReceiver() {
             append("URI: ${intent.toUri(Intent.URI_INTENT_SCHEME)}\n")
             toString().also { log ->
                 Log.d(ContentValues.TAG, log)
+
+                NotificationManagerCompat.from(context).cancel(2)
+                val notify = Notification("Mobile Logger")
+                notify.makeStopStatusNotification(context)
 
                 val manager = WorkerManager()
                 manager.scheduleLocationWork(context)
